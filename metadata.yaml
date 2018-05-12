@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37925'
     url: http://www.gutenberg.org/2009/agents/37925
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35817#Tradicions-religiosas-de-Catalunya
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
 identifiers:
