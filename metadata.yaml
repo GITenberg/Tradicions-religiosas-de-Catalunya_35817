@@ -1,0 +1,28 @@
+_repo: Tradicions-religiosas-de-Catalunya_35817
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Valldaura, Agna de
+    alias: Valldaura, Anna de
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '37925'
+    url: http://www.gutenberg.org/2009/agents/37925
+description: ''
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35817'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalonia (Spain) -- Religion'
+- !lcc 'GR'
+- !lcsh 'Folklore -- Spain -- Catalonia'
+title: Tradicions religiosas de Catalunya
+url: http://www.gutenberg.org/ebooks/35817
